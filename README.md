@@ -26,10 +26,6 @@ beautifulsoup4, bs4, openpyxl, geocoder, json, rquests, datetime, os, socket, ar
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
 ```
 geocoder:
 $ pip install geocoder
@@ -39,7 +35,7 @@ $ pip install openpyxl
 ```
 beautifulsoup4
 pip install beautifulsoup4
-
+```
 Conforme al script está conformado por distintas tareas que funcionan independiente mente de una a la otra, dichas tareas son: Tarea 1: keylogger Tarea 2: WebScraping Tarea 3: escaneo de puertos Tarea 4: cifrado cesar Tarea 5: envio de correos
 ### Y las pruebas de estilo de codificación ⌨️
 
