@@ -1,0 +1,10 @@
+Instrucciones
+
+Cuando se corre el programa, se muestra un menú principal donde se escoje entre 6 opciones, ya sea, webscrapping, escaneo de puertos, cifrado de mensajes, envío de correos, keyloger y salir,
+Opción 1) webscrapping tiene que ingresar el nombre de una persona a la que quieras investigar o extraer información, después se darán opciónes de ingresar información manualmente o nuestro algoritmo ya desarrollado, una vez ingresada la opción para hacer uso del algoritmo, se pedirá ingresar el número de URL's en internet que necesites sobre la persona, para agregarlos a un archivo txt, una vez recolectados te preguntara si quieres agregar una red social manualmente, después se pedirá el número de noticias que quieras extraer de internet sobre el mismo.
+Una vez recolectadas todas las noticias te pedirá el número de imágenes que quieres descargar de la persona, una vez descargado satisfactoriamente te mostrará las condiciones climatologicas.
+Opción 2) escaneo de puertos, en caso de escoger la opción dos te pedirá ingresar una dirección ip, luego de esto se desplegará todos los puertos que estén abiertos de dicha IP.
+Opción 3) cifrado de mensajes, si se selecciona está opción, se despliega ra un menú, dónde se seleccionará entre encriptar, desencriptar y salir.
+Si se selecciona la opción de encriptar se tendrá que ingresar el texto a encriptar, una vez ingresado el texto, se mostrará el texto encriptado y se desplegará de nuevo el menú para volver a encriptar o desencriptar asi como salir.
+En casi de escoger desencriptar, se tendrá ingresar el texto encriptado, y después se mostrará el texto en plano o desencriptado.
+Opción 5) keylogger, una vez selecciónada está opción, todo lo que se teclee, será escrito en un txt. El archivo txt será creado después de ser ejecutado, y todo se guardara ahí.
